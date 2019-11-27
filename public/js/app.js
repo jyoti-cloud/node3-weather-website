@@ -1,6 +1,3 @@
-
-
-
 //forecast challenge with fetch function
 
 // fetch('http://localhost:3000/weather?address=Noida').then((response) => {
