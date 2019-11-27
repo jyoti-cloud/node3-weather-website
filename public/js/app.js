@@ -1,4 +1,4 @@
-console.log('client side js file is loaded');
+
 
 
 //forecast challenge with fetch function
